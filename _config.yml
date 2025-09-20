@@ -20,7 +20,7 @@ contact: smokyjazzjam@gmail.com
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  Jam Tune Lists: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
